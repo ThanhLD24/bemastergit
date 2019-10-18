@@ -1,0 +1,1 @@
+I wonder that the difference between rebase vs merge, this test will answer that question!
