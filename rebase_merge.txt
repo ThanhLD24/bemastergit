@@ -1,3 +1,4 @@
 I wonder that the difference between rebase vs merge, this test will answer that question!
 Update 1
 Update 2
+Update 3
